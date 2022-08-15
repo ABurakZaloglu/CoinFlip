@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\number\number\bin\Debug\number.exe.config
+C:\Users\Asus\source\repos\number\number\bin\Debug\number.exe
+C:\Users\Asus\source\repos\number\number\bin\Debug\number.pdb
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.Form1.resources
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.Properties.Resources.resources
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.exe
+C:\Users\Asus\source\repos\number\number\obj\Debug\number.pdb
